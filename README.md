@@ -11,7 +11,7 @@ My name is Thiago Bellini and I am a developer from Ribeirão Preto, SP - Brazil
 [![](https://img.shields.io/badge/-bellini666-444?style=for-the-badge&logo=telegram)](https://t.me/bellini666)
 [![](https://img.shields.io/badge/-thiagobellini-444?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagobellini)
 
-### ⚡ My Tech Stack
+### ⚡ My tech stack
 
 ![](https://img.shields.io/badge/-python-444?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-django-444?style=for-the-badge&logo=django)
@@ -22,6 +22,6 @@ My name is Thiago Bellini and I am a developer from Ribeirão Preto, SP - Brazil
 ![](https://img.shields.io/badge/-debian-444?style=for-the-badge&logo=debian)
 ![](https://img.shields.io/badge/-vim-444?style=for-the-badge&logo=vim)
 
-### My Stats
+### My stats
 
 [![bellini666's github stats](https://github-readme-stats.vercel.app/api?username=bellini666&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
