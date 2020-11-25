@@ -2,6 +2,8 @@
 
 My name is Thiago Bellini and I am a developer from Ribeirão Preto, SP - Brazil.
 
+[![bellini666's codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bellini666)](https://profile.codersrank.io/user/bellini666)
+
 ### 📫 How to reach me
 
 [![](https://img.shields.io/badge/-bellini.dev-444?style=for-the-badge)](https://bellini.dev)
@@ -21,7 +23,5 @@ My name is Thiago Bellini and I am a developer from Ribeirão Preto, SP - Brazil
 ![](https://img.shields.io/badge/-vim-444?style=for-the-badge&logo=vim)
 
 ### My Stats
-
-[![bellini666's codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bellini666)](https://profile.codersrank.io/user/bellini666)
 
 [![bellini666's github stats](https://github-readme-stats.vercel.app/api?username=bellini666&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
