@@ -2,8 +2,6 @@
 
 My name is Thiago Bellini Ribeiro and I am a Senior Python Engineer from Ribeirão Preto, SP - Brazil.
 
-[![bellini666's codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bellini666&badges=3)](https://profile.codersrank.io/user/bellini666)
-
 ### 📫 How to reach me
 
 [![](https://img.shields.io/badge/-bellini.dev-444?style=for-the-badge)](https://bellini.dev)
