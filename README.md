@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Thiago Bellini Ribeiro and I am a Senior Python Engineer Brazil 🇧🇷, currently living in the Netherlands 🇳🇱
+My name is Thiago Bellini Ribeiro and I am a Senior Python Engineer from Brazil 🇧🇷, currently living in the Netherlands 🇳🇱
 
 ### 📫 How to reach me
 
