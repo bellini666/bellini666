@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Thiago Bellini Ribeiro and I am a Senior Python Engineer from Brazil 🇧🇷, currently living in the Netherlands 🇳🇱
+My name is Thiago Bellini Ribeiro, and I am an expert Python Engineer from Brazil 🇧🇷, currently living in the Netherlands 🇳🇱
 
 ### 📫 How to reach me
 
@@ -8,17 +8,6 @@ My name is Thiago Bellini Ribeiro and I am a Senior Python Engineer from Brazil 
 [![](https://img.shields.io/badge/-bellini666-444?style=for-the-badge&logo=codersrank)](https://profile.codersrank.io/user/bellini666)
 [![](https://img.shields.io/badge/-bellini666-444?style=for-the-badge&logo=telegram)](https://t.me/bellini666)
 [![](https://img.shields.io/badge/-thiagobellini-444?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiagobellini)
-
-### ⚡ My tech stack
-
-![](https://img.shields.io/badge/-python-444?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-django-444?style=for-the-badge&logo=django)
-![](https://img.shields.io/badge/-graphql-444?style=for-the-badge&logo=graphql)
-![](https://img.shields.io/badge/-postgresql-444?style=for-the-badge&logo=postgresql)
-![](https://img.shields.io/badge/-redis-444?style=for-the-badge&logo=redis)
-![](https://img.shields.io/badge/-docker-444?style=for-the-badge&logo=docker)
-![](https://img.shields.io/badge/-debian-444?style=for-the-badge&logo=debian)
-![](https://img.shields.io/badge/-vim-444?style=for-the-badge&logo=vim)
 
 ### My stats
 
